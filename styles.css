@@ -110,6 +110,7 @@ body {
 
 #heroleft .elem h1 {
     font-family: "kajiro";
+    src: url(Kajiro\ Bold.woff2);
     color: white;
     font-weight: 100;
     font-size: 10vw;
@@ -124,6 +125,7 @@ body {
     padding: .8vw 2vw;
     font-size: 2vw;
     font-family: "kajiro";
+    src: url(Kajiro\ Bold.woff2);
     margin-top: 2vw;
     pointer-events: all;
     cursor: pointer;
